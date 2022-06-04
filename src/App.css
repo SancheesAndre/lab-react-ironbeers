@@ -2,6 +2,37 @@
   text-align: center;
 }
 
+.Beer-Box {
+  text-decoration: none;
+  color: rgb(36, 36, 36);
+  text-align: left;
+  justify-content: space-between;
+  margin: 20px;
+  display: flex;
+  width: 90%;
+  padding: 15px;
+  border-bottom: 2px solid grey;
+}
+
+.Beer-Image {
+  height: 200px;
+}
+
+.Image-Box {
+  text-align: center;
+  width: 20%;
+}
+
+.Text-Box {
+  width: 60%;
+}
+
+.Text-Beer {
+  margin: 0 auto;
+  width: 60%;
+  text-align: left;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
